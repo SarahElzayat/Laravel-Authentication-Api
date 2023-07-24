@@ -18,12 +18,12 @@ The API provides OTP verification on email.
 
 # REST API
 
-| Endpoint           | Method | Request | Response |
-| ------------------ | ------ | ------- | -------- |
-| `api/register`   | POST   |         |          |
-| `api/login`      | POST   |         |          |
-| `api/verify-otp` | POST   |         |          |
-| `api/logout`     | POST   |         |          |
+| Endpoint           | Method |
+| ------------------ | ------ |
+| `api/register`   | POST   |
+| `api/login`      | POST   |
+| `api/verify-otp` | POST   |
+| `api/logout`     | POST   |
 
 ### License
 
